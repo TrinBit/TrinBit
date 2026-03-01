@@ -1,16 +1,22 @@
-## Hi there 👋
+# ![Text that says "Welcome to my page!](https://images.cooltext.com/5752878.png)
 
-<!--
-**TrinBit/TrinBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :smiley: About me
+I'm Trinity, A programmer with expertise in computer programming, website development and games & app development.
 
-Here are some ideas to get you started:
+- Designing and developing websites using HTML.
+- Creating games using engines such as Unity and Unreal.
+- Developing apps with the help of .NET MAUI and XAML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 My Portfolio
+
+Welcome to my portfolio, where I showcase my projects.
+
+
+## 🛠️ Tools
+- Languages: C#, C++, Python, JavaScript, XAML, HTML
+- Games Engines: Unity, Unreal
+
+
+## 👋 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/trinity-oldridge-3828591b0/)
