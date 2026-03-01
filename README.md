@@ -10,7 +10,7 @@ I'm Trinity, A programmer with expertise in computer programming, website develo
 
 ## 📚 My Portfolio
 
-Welcome to my portfolio, where I showcase my [projects]([https://pages.github.com/](https://github.com/TrinBit/Portfolio-Guide).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/TrinBit/Portfolio-Guide).
 
 
 ## 🛠️ Tools
