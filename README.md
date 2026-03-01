@@ -14,7 +14,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/TrinB
 
 
 ## 🛠️ Tools
-- Languages: C#, C++, Python, JavaScript, XAML, HTML
+- Languages: C#, C++, Python, Java, XAML, HTML
 - Games Engines: Unity, Unreal
 
 
